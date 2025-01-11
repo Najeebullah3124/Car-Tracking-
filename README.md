@@ -2,7 +2,6 @@
 
 This project utilizes YOLOv8 for real-time object detection and SORT (Simple Online and Realtime Tracking) for tracking and counting cars in a video. The system detects and counts the number of cars that cross a predefined line in the video, using both detection and tracking to maintain accuracy.
 
-![Car Counter Demo](https://media.giphy.com/media/3o6ZtffBFeWzfrW7aI/giphy.gif)
 
 ## 🧑‍💻 Overview
 
